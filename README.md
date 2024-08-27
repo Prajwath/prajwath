@@ -61,7 +61,7 @@
 ###
 
 <br clear="both">
-<h>Snake game</h>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
